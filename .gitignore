@@ -1,5 +1,12 @@
+##########
+# Python #
+##########
 __pycache__/
 *.pyc
 venv/
+##########
+# Confidential Data #
+##########
 .env
 db.sqlite3
+LICENSE
